@@ -6,6 +6,7 @@ In order to run the code, the user must supply the image datasets directory as a
 Use the Jupyter notebook file mask_rcnn.ipynb to run the scripts. Additional files contain helper functions that are imported in the Jupyter notebook.
 
 **BUSI.ipynb**  
-Contains the code to train and run inference on the U-Net model
+Contains the code to train and run inference on the U-Net model.
 
-**
+**First_Pytorch.ipynb**
+Contains the code to train nd run inference on the ResNet18 model.
