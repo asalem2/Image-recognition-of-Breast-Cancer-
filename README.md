@@ -8,5 +8,5 @@ Use the Jupyter notebook file mask_rcnn.ipynb to run the scripts. Additional fil
 **BUSI.ipynb**  
 Contains the code to train and run inference on the U-Net model.
 
-**First_Pytorch.ipynb**
+**First_Pytorch.ipynb**   
 Contains the code to train nd run inference on the ResNet18 model.
